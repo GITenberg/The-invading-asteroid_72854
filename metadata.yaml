@@ -1,0 +1,31 @@
+_repo: The-invading-asteroid_72854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wellman, Manly Wade
+    birthdate: 1903
+    deathdate: 1986
+    gutenberg_agent_id: '25394'
+    url: http://www.gutenberg.org/2009/agents/25394
+    wikipedia: https://en.wikipedia.org/wiki/Manly_Wade_Wellman
+description: ''
+gutenberg_issued: '2024-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72854'
+language: en
+pgterms:marc904: https://archive.org/details/wellman-manly-wade-science-fiction-series-15-the-invading-asteroid_202110
+pgterms:marc905: 20240127092923wellman
+pgterms:marc906: '1932'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York, NY :$bStellar Publishing Corporation, $c1932.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The invading asteroid
+url: http://www.gutenberg.org/ebooks/72854
